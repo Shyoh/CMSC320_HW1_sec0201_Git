@@ -11,3 +11,7 @@ one example would be Machine learning engineer where they have to train a model 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves history between the two files while rebasing rewrites that history so it is more linear
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning more about Data Science! It's something that was emphasized heavily in my internship so I can see that it's something that we be extremely useful moving on in my career
