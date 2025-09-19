@@ -6,3 +6,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to a large amount of fields which require the analyzing data, 
 one example would be Machine learning engineer where they have to train a model on a specific dataset
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves history between the two files while rebasing rewrites that history so it is more linear
